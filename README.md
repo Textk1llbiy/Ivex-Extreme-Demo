@@ -15,3 +15,4 @@ The commands are the common Linux command that i have implemented. to know more 
 
 	Ivex -h
 	
+(i'm doing the release practically right now)
